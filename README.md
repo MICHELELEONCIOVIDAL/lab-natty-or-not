@@ -1,51 +1,24 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# CANÇÕES PERSONALIZADAS PARA DATAS ESPECIAIS;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto consiste em levantar características marcantes relacionadas à uma pessoa para fazer uma música em homenagem a seu aniversário. Deve-se obter características que permitam facilmente a pessoa homenageada se identificar na letra, bem como o ritmo da música deve corresponder a um estilo de música que a pessoa goste.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+CHAT GPT
+SUNNO AI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A música foi criada para mei irmão Claudio Roberto pela ocasião de seu aniversário.
+Levantei acontecimentos e características exclusivas de nossa infância e relacionamento, dos nomes de que ele era chamado como apelido,
+a ocasião que pediu de aniversário um bolo e um refrigerante só para ele, o fato de nunca ter tido uma festa de aniversário,
+sua timidez característica, o nome de sua esposa e seus filhos e como ele ama sua função de pastor.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi uma música gospel exclusiva para meu irmão.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Foi criada uma música hiperpersonalizada para meu irmão, com características que lhe trouxeram risos e lágrimas, logo sendo um presente exclusivo
+e que ele nunca recebeu de mais ninguém.
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
