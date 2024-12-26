@@ -15,7 +15,9 @@ a ocasião que pediu de aniversário um bolo e um refrigerante só para ele, o f
 sua timidez característica, o nome de sua esposa e seus filhos e como ele ama sua função de pastor.
 
 ## 🚀 Resultados
-O resultado foi uma música gospel exclusiva para meu irmão.
+O resultado foi uma música gospel incrível e exclusiva, homenageando meu irmão.
+
+https://suno.com/song/6318cc56-bf95-4c8b-92ff-a060fcbb2cfa
 
 ## 💭 Reflexão (Opcional)
 Foi criada uma música hiperpersonalizada para meu irmão, com características que lhe trouxeram risos e lágrimas, logo sendo um presente exclusivo
