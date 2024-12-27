@@ -6,8 +6,8 @@ O projeto consiste em levantar características marcantes relacionadas à uma pe
 bem como o ritmo da música deve corresponder a um estilo de música que a pessoa goste.
 
 ## 🤖 Tecnologias Utilizadas
-[ChatGPT](https://chat.openai.com)
-[SUNNO AI](https://suno.com)
+**[ChatGPT](https://chat.openai.com)** para criação da letra e estruturação das estrofes e rimas
+**[SUNO](https://suno.com))**
 
 ## 🧐 Processo de Criação
 A música foi criada para meu irmão Claudio Roberto pela ocasião de seu aniversário.
