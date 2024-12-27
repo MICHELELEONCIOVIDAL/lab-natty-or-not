@@ -6,7 +6,7 @@ O projeto consiste em levantar características marcantes relacionadas à uma pe
 
 ## 🤖 Tecnologias Utilizadas
 [ChatGPT](https://chat.openai.com)
-[SUNNO AI] (https://suno.com)
+[SUNNO AI](https://suno.com)
 
 ## 🧐 Processo de Criação
 A música foi criada para meu irmão Claudio Roberto pela ocasião de seu aniversário.
