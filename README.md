@@ -2,7 +2,8 @@
 # CANÇÕES PERSONALIZADAS PARA DATAS ESPECIAIS;)
 
 ## 📒 Descrição
-O projeto consiste em levantar características marcantes relacionadas à uma pessoa para fazer uma música em homenagem a seu aniversário. Deve-se obter características que permitam facilmente a pessoa homenageada se identificar na letra, bem como o ritmo da música deve corresponder a um estilo de música que a pessoa goste.
+O projeto consiste em levantar características marcantes relacionadas à uma pessoa para fazer uma música em homenagem a seu aniversário. Deve-se obter características que permitam facilmente a pessoa homenageada se identificar na letra,
+bem como o ritmo da música deve corresponder a um estilo de música que a pessoa goste.
 
 ## 🤖 Tecnologias Utilizadas
 [ChatGPT](https://chat.openai.com)
@@ -23,5 +24,7 @@ O resultado foi uma música gospel incrível e exclusiva, homenageando meu irmã
 Foi criada uma música hiperpersonalizada para meu irmão, com características que lhe trouxeram risos e lágrimas, logo sendo um presente exclusivo
 e que ele nunca recebeu de mais ninguém.
 A princípio inclusive acreditaram que seria alguma banda da igreja cantando a música que eu haveria criado.
+
+
 
 
